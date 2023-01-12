@@ -29,12 +29,12 @@
 ## Trying Some Commands
 1. The image below shows examples of some commands. 
 2. If you type `cd ~`, it returns to the home directory.
-3. If you type `cd`, it changes from the current directory to the specified directory. Note that cd stands for change directory.
+3. If you type `cd [directory]`, it changes from the current directory to the specified directory. Note that cd stands for change directory. Also note that in my example below, I tried `cd Desktop` and it did not work because that wasn't a directory on the remote server.
 4. If you type `ls -lh`, it displays all the information about each file in the directory.  
 5. If you type `ls -a`, it displays all the hidden files in the directory.
 6. Note that there are many other commands you can try, including `pwd, mkdir, and cp`.
 
-![Image](commands1.png)
+![Image](commands.png)
 
 7. We can also try opening the contents of a text file. The image below shows what happens if you type `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`. 
 8. If you want to exit the remote server, type `exit` and you will be logged out of the remote server. 
