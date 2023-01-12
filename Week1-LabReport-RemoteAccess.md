@@ -12,6 +12,7 @@
 
 ![Image](vscode.png)
 
+---	
 ## Remotely Connecting
 1. To connect to a remote server, you must first look up your CSE 15L account on Educational Technology services [website](https://sdacs.ucsd.edu/~icc/index.php).
 2. It may prompt you to change your password. Follow the tutorial on [this](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit?usp=sharing) document to reset your password, and then wait for approximately 15 minutes.
@@ -24,7 +25,21 @@
 
 ![Image](remoteaccess.png)
 
+---	
 ## Trying Some Commands
-1. 
-2. cd ~, cd, ls -lat, ls -a
+1. The image below shows examples of some commands. 
+2. If you type `cd ~`, it returns to the home directory.
+3. If you type `cd`, it changes from the current directory to the specified directory. Note that cd stands for change directory.
+4. If you type `ls -lh`, it displays all the information about each file in the directory.  
+5. If you type `ls -a`, it displays all the hidden files in the directory.
+6. Note that there are many other commands you can try, including `pwd, mkdir, and cp`.
+
+![Image](commands1.png)
+
+7. We can also try opening the contents of a text file. The image below shows what happens if you type `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`. 
+8. If you want to exit the remote server, type `exit` and you will be logged out of the remote server. 
+
+![Image](commands2.png)
+
+ 
 
