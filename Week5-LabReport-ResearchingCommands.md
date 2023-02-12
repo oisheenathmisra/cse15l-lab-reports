@@ -57,7 +57,7 @@ After using the `less` command, you can find specific words or phrases within th
 or phrase. I tried to do this by first typing `less find-results.txt`. Once the command was executed, I typed in `/non-fiction` at the bottom, and all the 
 lines in the .txt file that had non-fiction in their paths got highlighted, as seen in the screenshot below. 
 
-![Image](lessfind,1.png)
+![Image](lessfind.1.png)
 
 I think this command is particularly useful if you're looking for a specific word/phrase in a lengthy text file because it means you don't have to read
 or even skim the file; you can directly go to a relevant section by looking at the highlights. I tried this by searching for `/land` in the ch1.txt file, and the results can be seen in the screenshot
